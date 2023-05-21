@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻I'm a Frontend Web Developer <br>💡 I'm Currently learning Backend Web Development<br>🎯I’m interested in Web Technologies, I Want to be a Perfect MERN Stack Developer.<br>💬Ask me about Good First Issues & Exciting Projects to work on.<br>😊Pronouns: He/His<br> 📍 How to reach me: https://www.linkedin.com/in/harshuserethe/
+🌐 Full Stack Web Developer with expertise in both Frontend and Backend development <br>🧠 Keen interest in Artificial Intelligence and its applications in web development<br>🚀 Constantly exploring new technologies and frameworks to enhance development skills<br>🌟 Strong problem-solving and analytical skills, dedicated to delivering high-quality solutions <br>👥 Collaborative team player with excellent communication and project management abilities <br>📢 Open to new opportunities and challenges to further expand skills and knowledge<br> 📍 How to reach me: useretheharsh@gmail.com
 
 
 ## 🌐 Socials:
