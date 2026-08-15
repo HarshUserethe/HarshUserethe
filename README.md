@@ -1,6 +1,13 @@
 # 💫 About Me:
-Software Engineer passionate about building scalable, user-focused web applications and modern digital experiences. Skilled in full-stack development with experience in React, Next.js, TypeScript, JavaScript, Node.js, and modern frontend architectures. Focused on writing clean, maintainable code and solving real-world problems through thoughtful design and efficient engineering.<br><br>Experienced in developing responsive interfaces, integrating APIs, optimizing performance, and managing end-to-end project workflows using Git and modern development tools. Continuously exploring new technologies, system design concepts, and best practices to improve both product quality and developer experience.<br><br>Open to collaboration, learning opportunities, and building impactful software.
+I'm a software developer with two years of experience building full-stack web applications — mostly React, Next.js, Node.js, and MongoDB, with PostgreSQL and MySQL depending on the project.
 
+Most of my day-to-day work is a mix of building new features and fixing what's broken. I read error logs and stack traces to track down production bugs, write REST APIs, and work across SQL and NoSQL databases. I've built things like a notification center with category filtering and read/unread tracking, and more recently, a multi-tenant HRMS platform where I integrated an LLM-powered HR assistant along with AI-based resume parsing and job description generation.
+
+I'm comfortable across the stack — from converting Figma designs into responsive UI, to writing backend APIs, to deploying and monitoring applications on AWS. I also work in tools like Datadog and Jira, and coordinate closely with QA and business teams to ship features on schedule.
+
+Outside my day job, I'm building on my Python and Generative AI skills — LLM API integration and applied ML — since it's the direction I want to keep growing in.
+
+Open to full-stack and Gen AI–focused roles. Feel free to reach out.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/harshuserethe?igsh=YjExZ283dHBkdDFy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/harshuserethe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HarshUserethe04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:useretheharsh@gmail.com) 
