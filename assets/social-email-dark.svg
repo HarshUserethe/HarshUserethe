@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="48" viewBox="0 0 113 48" role="img" aria-label="Email"><title>Email</title><defs>
+  <linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#141A2B"/></linearGradient>
+  <linearGradient id="glasss" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05"/></linearGradient>
+  <linearGradient id="rims" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.28"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.1"/></linearGradient>
+  <filter id="blurs" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+  <filter id="shs" x="-20%" y="-30%" width="140%" height="190%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.35"/></filter>
+</defs><rect x="4" y="2" width="105" height="40" rx="20" fill="url(#glasss)" filter="url(#shs)"/><rect x="4.5" y="2.5" width="104" height="39" rx="20" fill="none" stroke="url(#rims)" stroke-width="1.2"/><path transform="translate(24 13) scale(0.8333333333333334)" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#f28e86"/><text x="54" y="29.5" font-family="Inter, 'SF Pro Display', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F0F6FC">Email</text></svg>

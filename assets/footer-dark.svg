@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-label="Footer"><title>Footer</title><defs>
+  <linearGradient id="bgf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#141A2B"/></linearGradient>
+  <linearGradient id="glassf" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05"/></linearGradient>
+  <linearGradient id="rimf" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.28"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.1"/></linearGradient>
+  <filter id="blurf" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+  <filter id="shf" x="-20%" y="-30%" width="140%" height="190%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.35"/></filter>
+</defs><rect width="1000" height="110" rx="24" fill="url(#bgf)"/><g filter="url(#blurf)" opacity="0.38"><circle cx="120.0" cy="22.0" r="33.0" fill="#7C5CFF"/><circle cx="880.0" cy="93.5" r="35.2" fill="#1FA8E8"/></g><rect x="20" y="20" width="960" height="70" rx="18" fill="url(#glassf)" filter="url(#shf)"/><rect x="20.5" y="20.5" width="959" height="69" rx="18" fill="none" stroke="url(#rimf)" stroke-width="1.2"/><text x="500.0" y="62" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#F0F6FC">Thanks for stopping by.</text><text x="500.0" y="84" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#B4BFCC">Open to cloud and backend-heavy product engineering roles.</text></svg>

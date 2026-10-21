@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="48" viewBox="0 0 138 48" role="img" aria-label="LinkedIn"><title>LinkedIn</title><defs>
+  <linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#141A2B"/></linearGradient>
+  <linearGradient id="glasss" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05"/></linearGradient>
+  <linearGradient id="rims" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.28"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.1"/></linearGradient>
+  <filter id="blurs" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+  <filter id="shs" x="-20%" y="-30%" width="140%" height="190%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.35"/></filter>
+</defs><rect x="4" y="2" width="130" height="40" rx="20" fill="url(#glasss)" filter="url(#shs)"/><rect x="4.5" y="2.5" width="129" height="39" rx="20" fill="none" stroke="url(#rims)" stroke-width="1.2"/><rect x="24" y="13" width="20" height="20" rx="4" fill="#84b2e0" fill-opacity=".18" stroke="#84b2e0" stroke-opacity=".6"/><text x="34.0" y="27.6" text-anchor="middle" font-family="Inter, 'SF Pro Display', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12.4" font-weight="700" fill="#84b2e0">L</text><text x="54" y="29.5" font-family="Inter, 'SF Pro Display', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F0F6FC">LinkedIn</text></svg>
