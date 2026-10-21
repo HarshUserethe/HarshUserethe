@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="48" viewBox="0 0 78 48" role="img" aria-label="X"><title>X</title><defs>
+  <linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#141A2B"/></linearGradient>
+  <linearGradient id="glasss" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05"/></linearGradient>
+  <linearGradient id="rims" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.28"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.1"/></linearGradient>
+  <filter id="blurs" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+  <filter id="shs" x="-20%" y="-30%" width="140%" height="190%"><feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.35"/></filter>
+</defs><rect x="4" y="2" width="70" height="40" rx="20" fill="url(#glasss)" filter="url(#shs)"/><rect x="4.5" y="2.5" width="69" height="39" rx="20" fill="none" stroke="url(#rims)" stroke-width="1.2"/><path transform="translate(24 13) scale(0.8333333333333334)" d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z" fill="#b2b2b2"/><text x="54" y="29.5" font-family="Inter, 'SF Pro Display', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F0F6FC">X</text></svg>
